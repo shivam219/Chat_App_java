@@ -1,0 +1,34 @@
+Chat Application 
+ Java Basics [oops].
+ Reading and Writing.
+ Networking [Socket programming].
+ Gui [Swing ,java Fx]. 
+
+
+Approach 
+ Concept
+ Console Based
+ Gui Based
+// s
+
+//  how to hide preview in vs code
+    press : ctrl+shift+p 
+    type  : toggle minimap
+
+//  how to run java cmd
+    goto the folder : type cmd on search bar
+    cmd open in that folder 
+    type : javac Server.java 
+    then : Server.java
+ 
+    ctrl+.
+
+Short-cute 
+new line         = Ctrl + enter
+Show suggestions = Ctrl + .
+
+
+// Put try-catch to out of while for auto ternimat
+// put !Socket.isClosed()
+
+// we have did jugad normaly is done by inter-thread Communication
